@@ -1,16 +1,45 @@
-## Hi there 👋
+# Рубцов Денис Андреевич
 
-<!--
-**arafion-lomendil/arafion-lomendil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst** · Москва   
+Интересуюсь продуктовой аналитикой: SQL, Python, проверка гипотез, A/B-тесты.
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+С 2015 года работаю бортпроводником в Аэрофлоте. В 2026 году прошёл переобучение на аналитика данных в Яндекс Практикуме. По первому образованию (МГГУ им. Шолохова, 2012) учитель истории и обществознания. Сейчас ищу работу аналитиком данных.
+
+## Навыки
+
+- **Базы данных:** PostgreSQL
+- **Python:** pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn, Jupyter Notebook
+- **Статистика:** A/B-тесты, проверка гипотез
+- **BI и визуализация:** Yandex DataLens, matplotlib
+- **Языки:** английский C1, французский B2, испанский B2
+
+## Проекты
+
+### [Аналитика продаж билетов сервиса Яндекс Афиша](https://github.com/arafion-lomendil/diploma_project)
+Дипломный проект. Исследовательский анализ данных и проверка гипотез перед зимними продажами и новогодними акциями. Данные за 01.06.2024–31.10.2024.
+`SQL (PostgreSQL)` `Yandex DataLens` `Python` `pandas` `scipy` `matplotlib`
+
+### [Яндекс Книги и A/B-тест интернет-магазина BitMotion Kit](https://github.com/arafion-lomendil/yandex_knigi)
+SQL-метрики Яндекс Книг (MAU авторов и произведений, Retention Rate, LTV, выручка на час прослушивания), проверка гипотезы и анализ результатов A/B-теста.
+`SQL` `Python` `pandas` `scipy` `statsmodels` `matplotlib`
+
+### [Исследование стартапов](https://github.com/arafion-lomendil/startup_project)
+Исследовательский анализ данных о финансировании стартапов для венчурной компании: закономерности финансирования и перспективы покупки и развития компаний. Данные за 2000–2014 годы.
+`Python` `pandas` `matplotlib` `seaborn`
+
+### [Анализ объявлений о недвижимости в Санкт-Петербурге и Ленинградской области](https://github.com/arafion-lomendil/real_estate_spb)
+Аналитика для агентства недвижимости, выходящего на рынок Санкт-Петербурга: время активности объявлений по сегментам и сезонность. Данные за ноябрь 2014 – май 2019.
+`SQL` `Yandex DataLens`
+
+## Сертификаты и образование
+
+- Яндекс Практикум, «Аналитик данных», диплом о переподготовке (2026)
+- Stepik, курс по Python, сертификат (2025)
+- МГГУ им. М. А. Шолохова, высшее образование (2012)
+
+## Контакты
+
+- Telegram: [@Arafion](https://t.me/Arafion)
+- Email: drubtsov90@gmail.com
