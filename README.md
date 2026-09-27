@@ -10,7 +10,7 @@
 ## Навыки
 
 - **Базы данных:** PostgreSQL
-- **Python:** pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn, Jupyter Notebook
+- **Python:** Pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn, Jupyter Notebook
 - **Статистика:** A/B-тесты, проверка гипотез
 - **BI и визуализация:** Yandex DataLens, matplotlib
 - **Языки:** английский C1, французский B2, испанский B2
